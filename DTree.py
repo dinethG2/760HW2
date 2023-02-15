@@ -273,6 +273,7 @@ dataset = np.loadtxt("Dbig.txt", dtype=float)
 # print("Class 1: ", class1)
 
 
+# ************************************************************************************
 # X = dataset[:,0:2]
 # y = dataset[:,2]
 # X_train, X_test, y_train, y_test = train_test_split(X, y, train_size=0.8192, random_state=42)
